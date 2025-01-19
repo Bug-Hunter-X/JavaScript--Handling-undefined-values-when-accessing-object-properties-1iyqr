@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error:  Unexpected TypeError when accessing properties of undefined values. The `bug.js` file contains the buggy code. The `bugSolution.js` file provides a robust solution that handles undefined values gracefully.
